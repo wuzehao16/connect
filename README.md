@@ -1,2 +1,2 @@
-"# connect"
-rewrite connect 
+# connect
+rewrite connect
